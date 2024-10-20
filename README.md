@@ -75,8 +75,8 @@ The data consists of match-level records including the following key attributes:
 ## **Contact**
 For any questions, feel free to reach out:
 - **Email**: your.email@example.com
-- **LinkedIn**: [Your LinkedIn](https://www.linkedin.com/in/YourProfile)
-- **GitHub**: [Your GitHub Profile](https://github.com/YourUsername)
+- **LinkedIn**: (https://www.linkedin.com/in/ukeje-ugochukwu/)
+- **GitHub**: (https://github.com/DaytaHokage/Soccer-Hypothesis-Testing/edit/main/README.md))
 
 ---
 
